@@ -8,7 +8,7 @@ This requires IPython 3.
 
 To install::
 
-    pip install calysto_lc3
+    git clone https://github.com/areebaikram/calysto_lc3.git
     python -m calysto_lc3.install
 
 To use it, run one of:
