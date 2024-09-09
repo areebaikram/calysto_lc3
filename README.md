@@ -9,6 +9,8 @@ This requires IPython 3.
 To install::
 
     git clone https://github.com/areebaikram/calysto_lc3.git
+    cd calysto_lc3/calysto_lc3
+    pip install .
     python -m calysto_lc3.install
 
 To use it, run one of:
