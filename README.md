@@ -2,7 +2,7 @@
 
 Calysto Little Computer - LC3 Assembly Language for Jupyter 
 
-An Jupyter kernel for LC3
+A Jupyter kernel for LC3
 
 This requires IPython 3.
 
